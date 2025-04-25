@@ -1,0 +1,17 @@
+{
+    "auth": {
+        "login_success": "Tizimga muvaffaqiyatli kirdingiz.✅\n\n*Tavsiya:*\nXavfsiz uchun yuqoridagi login va parolingizni o'chirib tashlang",
+        "already_logged_in": "Siz allaqochon tizimga kirgansiz!",
+        "enter_your_phone_number": "Telefon raqamingizni kiriting☎️",
+        "phone_number_format_is_incorrect": "Telefon raqam formati noto'g'ri kiritilgan",
+        "enter_your_password": "Parolingizni kiriting🔐",
+        "phone_or_password_is_incorrect": "Telefon raqam yoki parol noto'g'ri kiritilgan❌\n\nIltimos, qaytadan harakat qilib ko'ring",
+        "user_information_is_not_full": "Foydalanuvchi ma'lumotlari to'liq emas"
+    },
+    "error": {
+        "something_went_wrong": "Nimadirga xato ketdi, iltimos qaytadan urinib ko'ring"
+    },
+    "profile": {
+        "you_are_not_logged_in": "Siz tizimga kirmagansiz❌ \n\nIltimos, tizimga kiring"
+    }
+}
